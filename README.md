@@ -15,11 +15,6 @@ A modern, responsive chat application designed for developers to communicate, te
 
 ---
 
-## 🎨 Screenshot
-
-![Developer Helper Chat](<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/2a0e079e-1f43-47cc-a992-a697612040d2" />
-)  
-*Replace `screenshot.png` with your actual image file name.*
 
 ---
 
