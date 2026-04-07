@@ -18,6 +18,9 @@ A modern, responsive chat application designed for developers to communicate, te
 
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/014012ce-2fa6-44ba-9f9e-0db862f7916d" />
 
+<img width="1850" height="1076" alt="image" src="https://github.com/user-attachments/assets/c355e761-0973-4764-8ab0-2b0d6cf9e9b7" />
+
+
 ---
 
 ## 🚀 Installation
